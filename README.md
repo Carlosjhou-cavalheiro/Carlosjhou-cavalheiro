@@ -1,5 +1,12 @@
 ## Hi there 👋
-
+ Oi sou Carlos Cavalheiro, soo programador Front-End, atualmente estou aprendendo e criando projetos com:
+ <br>
+ <br>
+ <img src"https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt"logo-html" />
+ CSS
+ e começando a aprender:
+ JAVASCRIPT
+ REACT
 <!--
 **Carlosjhou-cavalheiro/Carlosjhou-cavalheiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
